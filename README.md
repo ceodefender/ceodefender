@@ -19,4 +19,4 @@ My passion for cybersecurity prompts me to generate content in the form of blogs
 
 <br>
 
-## <p align="center">MADE WITH :heart: BY CEO </p>
+## <p align="center">MADE WITH :heart: BY AUTHOR </p>
