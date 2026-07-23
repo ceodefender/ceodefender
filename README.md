@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/alihusnain404/alihusnain404">
-  <img src="https://img.shields.io/github/forks/alihusnain404/alihusnain404">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-  <img src="https://img.shields.io/github/license/alihusnain404/alihusnain404">
-  <img src="https://img.shields.io/github/repo-size/alihusnain404/alihusnain404">
-  <img src="https://img.shields.io/github/languages/count/alihusnain404/alihusnain404">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alihusnain404.alihusnain404">
 </p>
 
